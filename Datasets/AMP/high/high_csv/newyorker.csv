@@ -1,0 +1,4 @@
+Date,"YSlow Grade (%)","PageSpeed Grade (%)","Onload Time (s)","Total Size (bytes)","Total Requests","TTFB (ms)","HTML Size (bytes)","Redirect duration (ms)","Connection duration (ms)","Backend duration (ms)","DOM interactive (ms)","DOM content loaded (ms)","DOM content loaded duration (ms)","Onload (ms)","Onload duration (ms)","Fully loaded (ms)","First paint (ms)","RUM Speed Index","First contentful paint (ms)","Report slug"
+"2019-06-25 10:59:53",40,21,10.4060,4305286,627,89,168732,29,52,8,582,706,8,10406,48,15854,500,544,500,ckIptvDn
+"2019-06-28 03:58:29",40,22,14.5250,4349177,623,100,169800,36,56,8,403,1053,9,14525,167,19330,795,804,795,ZiAOiq2U
+"2019-07-24 14:00:19",41,21,12.8600,4361944,624,170,172117,56,106,8,795,810,6,12860,59,14641,588,588,588,m6EKOg3B

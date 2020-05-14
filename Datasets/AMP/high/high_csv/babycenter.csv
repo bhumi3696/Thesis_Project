@@ -1,0 +1,4 @@
+Date,"YSlow Grade (%)","PageSpeed Grade (%)","Onload Time (s)","Total Size (bytes)","Total Requests","TTFB (ms)","HTML Size (bytes)","Redirect duration (ms)","Connection duration (ms)","Backend duration (ms)","DOM interactive (ms)","DOM content loaded (ms)","DOM content loaded duration (ms)","Onload (ms)","Onload duration (ms)","Fully loaded (ms)","First paint (ms)","RUM Speed Index","First contentful paint (ms)","Report slug"
+"2019-06-27 23:56:48",53,50,3.1230,1551153,261,490,36461,0,164,326,1477,1477,2,3123,11,4915,866,897,866,A2fKl5gk
+"2019-07-06 04:30:13",53,50,3.2420,1549804,259,356,33844,0,89,267,1348,1348,1,3242,8,4927,811,828,811,vXysHICp
+"2019-07-24 13:08:56",53,50,2.9360,1571506,259,415,34837,0,180,235,1365,1365,1,2936,9,4600,915,1055,915,Dgz3Hq7p
